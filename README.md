@@ -1,3 +1,4 @@
+STEP BY STEP IMPLEMENTATION:
 To implement a simple Django application with a home view for displaying recipes, follow these steps:
 
 1.Step-by-Step Implementation
